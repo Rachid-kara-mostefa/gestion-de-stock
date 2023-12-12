@@ -16,3 +16,10 @@ Ajouter un article dans le stock.
 ![exec 1 ajout](https://github.com/Rachid-kara-mostefa/gestion-de-stock/assets/153507294/9462f161-8eb6-4767-b794-13cb04f11754)
 
 Le résultat est donc.
+
+![exec 1 resultat](https://github.com/Rachid-kara-mostefa/gestion-de-stock/assets/153507294/fe0a862e-c4eb-4a01-8670-22c5e3776e15)
+
+
+Affichage du stock
+
+
