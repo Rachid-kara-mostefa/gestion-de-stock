@@ -25,8 +25,18 @@ Affichage du stock
 
 Pour rechercher un article du stock.
 
-![exec 3 recherche](https://github.com/Rachid-kara-mostefa/gestion-de-stock/assets/153507294/ca703319-35b7-4359-a350-2c80d458b732)
+
 
 Pour supprimer un article.
 
+
+
+Affichage aprés suppression.
+
+
+Modifier un article.
+
+
+
+Affichage aprés modification.
 
