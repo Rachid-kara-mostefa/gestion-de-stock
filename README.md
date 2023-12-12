@@ -13,3 +13,6 @@ Ensuite on crée un fichier de stockage.
 
 Ajouter un article dans le stock.
 
+![exec 1 ajout](https://github.com/Rachid-kara-mostefa/gestion-de-stock/assets/153507294/9462f161-8eb6-4767-b794-13cb04f11754)
+
+Le résultat est donc.
