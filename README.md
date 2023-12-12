@@ -6,3 +6,5 @@ Ce projet m'a permis de maitriser les fondamentaux du langage de programmation C
 EXECUTION : 
 
 ![exec 0 ](https://github.com/Rachid-kara-mostefa/gestion-de-stock/assets/153507294/16c04f4f-b120-42ed-8082-990f9db3153e)
+
+Ensuite on crée un fichier de stockage.
